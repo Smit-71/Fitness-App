@@ -1,6 +1,8 @@
-# flutter_fitness
+# Fitness App
 
 A new Flutter project.
+
+[Fitness App Screenshots.pdf](https://github.com/Smit-71/Fitness-App/files/12388616/Fitness.App.Screenshots.pdf)
 
 ## Getting Started
 
